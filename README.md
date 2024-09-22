@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin. <br/>IStudent</a> and Cybersecurity Enthusiast.</a> </a></h1>
+<h1>Hi, I'm Justin! <br/>Student</a> and Cybersecurity Enthusiast.</a> </a></h1>
 
 <h2>💻 Projects:</h2>
 
